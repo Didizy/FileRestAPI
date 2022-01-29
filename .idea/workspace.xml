@@ -45,8 +45,8 @@
       <recent name="J:\InfoFarm_C305\Projects\restAPIART\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mm">
-    <configuration name="mm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.client">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="restAPIART" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +59,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mm.py" />
+      <option name="SCRIPT_NAME" value="D:\Works\Backend\FileRestAPI\FileRestAPI\client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,11 +94,11 @@
     </configuration>
     <list>
       <item itemvalue="Django Server.restAPIART" />
-      <item itemvalue="Python.mm" />
+      <item itemvalue="Python.client" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mm" />
+        <item itemvalue="Python.client" />
       </list>
     </recent_temporary>
   </component>
